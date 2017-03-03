@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29A74181-C325-461C-B145-8AC042C51DE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PickerViewDemo(省市县三级联动)</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a5564b6a-ca74-9643-995a-e44983202a55++4974</key>
+		<string>http://115.28.35.65:8090/svn/HN3L/iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>功能/PickerViewDemo(省市县三级联动)/PickerViewDemo(省市县三级联动).xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a5564b6a-ca74-9643-995a-e44983202a55++4974</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>a5564b6a-ca74-9643-995a-e44983202a55++4974</key>
+		<string>http://115.28.35.65:8090/svn/HN3L</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://115.28.35.65:8090/svn/HN3L/iOS/%E5%8A%9F%E8%83%BD/PickerViewDemo(%E7%9C%81%E5%B8%82%E5%8E%BF%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8)/PickerViewDemo(%E7%9C%81%E5%B8%82%E5%8E%BF%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8).xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a5564b6a-ca74-9643-995a-e44983202a55++4974</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a5564b6a-ca74-9643-995a-e44983202a55++4974</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
